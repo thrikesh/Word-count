@@ -34,8 +34,6 @@ print("The number of words are in the file is ",num)
 ```
 
 ### OUTPUT:
-
-
-
+<br>![output](./ex5(a)(p).png)
 ## RESULT:
 Thus the program is written to find the word count from a text.
