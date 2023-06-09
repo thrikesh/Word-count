@@ -18,6 +18,10 @@ Run terminal for output of the given program.
 ### Step 6:
 End the program.
 
+
+
+
+<br>
 ## PROGRAM:
 ```
 Program to mark the maximum of marks using the list method sort
